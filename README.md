@@ -3,7 +3,7 @@
 Um aplicativo JavaScript que fornece informações sobre taxas de câmbio em tempo real para ajudar os usuários a converter moedas de um valor para outro.
 
 Desenvolvi essa aplicação assistindo vídeo aula no Canal **Refined Guides** no YouTube. 
-Conseguir desenvolver toda essa aplicação incrível. E vou partir para a parte 2.0 desse projeto, pegar esse de base e fazer uma restrutura no projeto.
+Conseguir desenvolver toda essa aplicação incrível.
 
 
 # Features
